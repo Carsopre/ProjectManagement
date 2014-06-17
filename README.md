@@ -1,3 +1,3 @@
 ProjectManagement
 =================
-# Developed in C++ and QT
+Developed in C++ and QT
