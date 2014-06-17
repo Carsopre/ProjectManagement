@@ -1,0 +1,31 @@
+ACTIVITIES
+9
+A 3 0 3 0
+B 2 0 2 0
+C 4 0 4 0
+D 2 0 2 0
+E 7 0 7 0
+F 1 0 1 0
+G 8 0 8 0
+H 2 0 2 0
+I 2 0 2 0
+RELATIONS
+A C
+B E
+C D
+D F
+E H
+F H
+G H
+RESOURCES
+1
+r1 100000000
+r1 A 10
+r1 B 5
+r1 C 5
+r1 D 5
+r1 E 5
+r1 F 5
+r1 G 5
+r1 H 5
+r1 I 10

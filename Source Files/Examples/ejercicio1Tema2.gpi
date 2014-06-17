@@ -1,0 +1,22 @@
+ACTIVITIES
+8
+A 5 0 3 2
+B 4 0 2 1
+C 4 0 2 3
+D 3 0 1 2
+E 5 0 4 1
+F 1 0 1 0
+G 2 0 1 4
+H 7 0 5 2
+RELATIONS
+A B
+A C
+A D
+B F
+C G
+D E
+E H
+F G
+G H
+RESOURCES
+0

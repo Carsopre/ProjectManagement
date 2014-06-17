@@ -1,0 +1,286 @@
+ACTIVITIES
+61
+11 5 0 5 0
+12 6 0 6 0
+131 10 0 10 0
+132 9 0 9 0
+133 6 0 6 0
+134 7 0 7 0
+135 1 0 1 0
+136 8 0 8 0
+21 20 0 20 0
+22 5 0 5 0
+23 6 0 6 0
+24 7 0 7 0
+25 5 0 5 0
+26 14 0 14 0
+31 6 0 6 0
+321 9 0 9 0
+322 3 0 3 0
+34 14 0 14 0
+351 3 0 3 0
+352 3 0 3 0
+361 6 0 6 0
+362 2 0 2 0
+37 5 0 5 0
+41 40 0 40 0
+42 40 0 40 0
+43 10 0 10 0
+44 7 0 7 0
+45 5 0 5 0
+46 17 0 17 0
+47 3 0 3 0
+51 3 0 3 0
+521 4 0 4 0
+522 1 0 1 0
+523 1 0 1 0
+531 4 0 4 0
+532 1 0 1 0
+533 1 0 1 0
+541 5 0 5 0
+542 3 0 3 0
+543 2 0 2 0
+55 8 0 8 0
+61 6 0 6 0
+621 9 0 9 0
+622 2 0 2 0
+63 4 0 4 0
+71 12 0 12 0
+721 7 0 7 0
+722 3 0 3 0
+73 4 0 4 0
+74 2 0 2 0
+811 25 0 25 0
+812 15 0 15 0
+82 3 0 3 0
+831 6 0 6 0
+832 4 0 4 0
+84 1 0 1 0
+85 1 0 1 0
+861 7 0 7 0
+862 12 0 12 0
+331 4 0 4 0
+332 1 0 1 0
+RELATIONS
+11 12
+12 131
+131 132
+131 133
+131 134
+131 135
+132 136
+133 136
+134 136
+135 136
+136 21
+21 22
+21 24
+21 25
+22 23
+23 26
+24 26
+25 26
+26 31
+26 321
+26 351
+26 361
+31 331
+321 322
+322 34
+34 37
+351 352
+352 34
+361 362
+37 41
+37 42
+37 43
+37 44
+41 46
+42 41
+43 41
+44 41
+45 41
+46 47
+47 51
+51 521
+521 522
+522 523
+523 531
+523 55
+531 532
+532 533
+533 541
+533 55
+541 542
+542 543
+543 55
+55 61
+61 621
+621 622
+622 63
+63 71
+71 721
+721 722
+722 73
+73 74
+74 811
+811 812
+811 82
+812 831
+82 831
+82 84
+82 85
+831 832
+832 861
+84 861
+85 861
+861 862
+331 332
+332 34
+RESOURCES
+5
+analista 5
+disenyador 8
+programador 13
+tester 6
+operario 8
+analista 11 3
+analista 12 5
+disenyador 12 6
+analista 131 3
+analista 132 2
+analista 133 1
+analista 134 3
+disenyador 134 3
+tester 134 0
+operario 134 0
+analista 135 3
+disenyador 135 0
+programador 135 0
+tester 135 0
+operario 135 0
+analista 136 5
+analista 21 5
+disenyador 21 8
+programador 21 2
+disenyador 22 4
+programador 22 1
+disenyador 23 3
+programador 23 2
+disenyador 24 2
+programador 24 5
+disenyador 25 2
+programador 25 2
+disenyador 31 2
+programador 31 7
+analista 321 3
+disenyador 321 2
+operario 321 3
+disenyador 322 3
+programador 322 2
+operario 322 2
+analista 34 2
+disenyador 34 1
+programador 34 8
+tester 34 2
+analista 351 2
+programador 351 2
+analista 352 1
+programador 352 2
+analista 361 2
+programador 361 3
+analista 362 1
+programador 362 4
+analista 37 2
+programador 37 5
+tester 37 6
+analista 41 2
+disenyador 41 2
+programador 41 2
+tester 41 2
+operario 41 2
+programador 42 7
+tester 42 1
+disenyador 43 3
+programador 43 2
+programador 44 2
+tester 45 1
+analista 45 0
+disenyador 45 0
+programador 45 1
+programador 46 7
+tester 46 2
+disenyador 47 2
+programador 47 2
+operario 47 3
+programador 51 4
+tester 51 6
+programador 521 3
+tester 521 6
+programador 522 2
+tester 522 6
+analista 523 2
+programador 523 1
+tester 523 6
+programador 531 3
+tester 531 6
+programador 532 1
+tester 532 6
+analista 533 2
+programador 533 2
+tester 533 6
+programador 541 3
+tester 541 6
+programador 542 1
+tester 542 6
+analista 543 2
+programador 543 2
+tester 543 6
+tester 55 6
+analista 61 3
+programador 61 6
+tester 61 6
+programador 621 3
+tester 621 6
+analista 622 2
+programador 622 2
+tester 622 6
+tester 63 6
+analista 71 2
+disenyador 71 2
+programador 71 5
+tester 71 4
+tester 721 6
+tester 722 6
+programador 73 3
+tester 73 6
+programador 74 3
+tester 74 6
+operario 811 8
+operario 812 4
+operario 82 4
+analista 831 3
+tester 831 4
+analista 832 3
+tester 832 2
+operario 832 2
+analista 84 3
+disenyador 84 3
+programador 84 3
+tester 84 3
+programador 85 3
+tester 85 3
+analista 85 0
+disenyador 85 0
+operario 85 0
+analista 861 3
+disenyador 861 2
+programador 861 4
+tester 861 3
+programador 862 8
+operario 862 4
+analista 331 2
+disenyador 331 2
+analista 332 1
+disenyador 332 1
+programador 332 1
